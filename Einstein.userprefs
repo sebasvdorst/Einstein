@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared\LocalDatabase.cs">
+    <Files>
+      <File FileName="EinsteinAndroid\MainActivity.cs" Line="1" Column="1" />
+      <File FileName="EinsteinAndroid\Code\Adapters\CaseListAdapter.cs" Line="1" Column="1" />
+      <File FileName="Shared\CaseManager.cs" Line="1" Column="1" />
+      <File FileName="c:\Users\Pixplicity\Documents\Projects\Einstein\Shared\LocalRepository.cs" Line="1" Column="1" />
+      <File FileName="Shared\LocalDatabase.cs" Line="36" Column="26" />
+      <File FileName="Shared\SQLite.cs" Line="1" Column="1" />
+      <File FileName="Shared\Message.cs" Line="1" Column="1" />
+      <File FileName="Shared\InvestigationManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Pixplicity\Documents\Projects\Einstein\Shared\LocalDatabase.cs" line="100" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.EinsteinAndroid MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="07087e1a00e4f670" />
+</Properties>
